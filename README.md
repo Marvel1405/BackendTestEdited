@@ -11,6 +11,9 @@ GET /me → returns JSON with profile, timestamp, and a random cat fact.
 - Express
 - Axios
 
+## 🌍 Environment
+PORT: optional, defaults to 3000
+
 ## ⚙ Setup
 ```bash
 git clone https://github.com/Marvel1405/BackendTestEdited.git
